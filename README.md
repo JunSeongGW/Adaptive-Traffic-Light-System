@@ -15,9 +15,7 @@ USB 카메라로부터 입력된 실시간 영상을 **ROS2 (Humble)** 환경에
 차량 및 보행자 객체를 탐지·추적합니다.  
 이를 바탕으로 **교통 점수를 계산하여 신호 상태를 시각화(빨강/초록)** 하는 시스템입니다.
 
-<p align="center">
-  <img src="docs/system_architecture.png" width="720">
-</p>
+<img width="3231" height="1498" alt="Image" src="https://github.com/user-attachments/assets/207dc884-14b1-4b60-a359-08bf66828bb9" />
 
 ---
 
