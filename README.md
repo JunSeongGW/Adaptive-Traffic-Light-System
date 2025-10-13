@@ -44,5 +44,8 @@ USB 카메라로부터 입력된 실시간 영상을 **ROS2 (Humble)** 환경에
   - 각 노드(detector, tracker, scorer, visualizer)가 독립적으로 동작  
 
 ---
+
+## 시스템 개요도
+
 <img width="2537" height="1847" alt="Image" src="https://github.com/user-attachments/assets/5afa782f-9c32-44df-a3b3-85563a28d1e8" />
 
