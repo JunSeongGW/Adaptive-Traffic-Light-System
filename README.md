@@ -2,6 +2,7 @@
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow)](https://www.python.org/)
+[![DeepSORT](https://img.shields.io/badge/Detector-YOLO-green)](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)
 [![DeepSORT](https://img.shields.io/badge/Tracker-DeepSORT-green)](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)
 
 ---
