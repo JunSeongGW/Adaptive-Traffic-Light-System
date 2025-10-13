@@ -1,4 +1,4 @@
-# 🚦 Adaptive Traffic Light System (ROS2 + YOLOv8 + DeepSORT)
+# Adaptive Traffic Light System (ROS2 + YOLOv8 + DeepSORT)
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow)](https://www.python.org/)
