@@ -11,8 +11,7 @@
 
  본 프로젝트는 **교차로의 실시간 교통 상황을 인식하여 신호 주기를 자동으로 조정하는 적응형 신호등 시스템(Adaptive Traffic Light System)** 입니다.  
 USB 카메라로부터 입력된 실시간 영상을 **ROS2 (Humble)** 환경에서 수신하고,  
-[Muhammad Moin Faisal의 YOLOv8 + DeepSORT 오픈소스 프레임워크](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)를 기반으로  
-차량 및 보행자 객체를 탐지·추적합니다.  
+[Muhammad Moin Faisal의 YOLOv8 + DeepSORT 오픈소스 프레임워크](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)를 기반으로 차량 및 보행자 객체를 탐지·추적합니다.  
 이를 바탕으로 **교통 점수를 계산하여 신호 상태를 시각화(빨강/초록)** 하는 시스템입니다.
 
 <img width="3231" height="1498" alt="Image" src="https://github.com/user-attachments/assets/207dc884-14b1-4b60-a359-08bf66828bb9" />
