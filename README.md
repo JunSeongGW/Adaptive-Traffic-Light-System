@@ -1,4 +1,4 @@
-# Adaptive Traffic Light System (ROS2 + YOLOv8 + DeepSORT)
+# Adaptive Traffic Light System
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow)](https://www.python.org/)
@@ -28,7 +28,7 @@ USB 카메라로부터 입력된 실시간 영상을 **ROS2 (Humble)** 환경에
 
 - **객체 추적 (DeepSORT)**  
   - [YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)을 활용하여  
-    동일 객체를 프레임 간 ID로 추적 (중복 계수 방지)  
+    동일 객체를 프레임 간 ID로 추적
 
 - **대기시간 및 점수 계산**  
   - 교차로 내부(정지선, 횡단보도) 체류시간 기반 평균 대기시간 계산  
